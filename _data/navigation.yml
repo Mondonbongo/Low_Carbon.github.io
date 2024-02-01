@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "碳中和碳达峰"
+    url: /双碳/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "碳资产开发"
+    url: /碳资产/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "绿色、零碳制造体系"
+    url: /绿色制造体系/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "绿色金融"
+    url: /绿色金融/
         
-  - title: "Blog Posts"
+  - title: "ESG"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  - title: "国际碳政策"
+    url: /国际碳政策/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "碳交易"
+    url: /碳交易/
